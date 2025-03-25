@@ -47,4 +47,8 @@ Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 Espero que esta versión mejorada del README refleje mejor tu estilo y haga que el proyecto se sienta más personal y atractivo. Puedes seguir ajustando el contenido para que se adapte aún más a tus preferencias.
 
+## 🌐 Despliegue en Vercel
+
+Puedes ver la aplicación en acción en [DragTrack en Vercel](https://https://drag-track-xi.vercel.app/).
+
 
